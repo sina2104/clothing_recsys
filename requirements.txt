@@ -1,0 +1,8 @@
+streamlit==1.8.1
+opencv-python
+pyyaml
+plotly
+pandas
+protobuf~=3.19.0
+altair==4
+kaggle
