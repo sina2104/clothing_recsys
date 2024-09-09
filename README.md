@@ -7,6 +7,7 @@ This is a streamlit application to show the results of the recommendation system
 ---
 ### How to run it?
 To run the application, simply copy and paste the following code to your terminal:
+You will need to first upload the data from kaggle and after that you can run streamlit.
 ```shell
 git clone https://github.com/sina2104/Furniture_detection
 pip install -r requirements.txt
