@@ -15,7 +15,6 @@ kaggle competitions download -c h-and-m-personalized-fashion-recommendations
 unzip h-and-m-personalized-fashion-recommendations.zip
 kaggle datasets download sinaaskary/submissions
 unzip submissions.zip
-
 cd ..
 streamlit run app.py
 ```
